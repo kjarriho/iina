@@ -1,0 +1,22 @@
+{
+  "name": "villagepeople",
+  "version": "1.0.0",
+  "description": "Villagepeople",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://eta7800-20s-groupA@dev.azure.com/eta7800-20s-groupA/VillagePeople/_git/VillagePeople"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.16",
+    "mysql": "^2.18.1"
+  }
+}
